@@ -3,3 +3,4 @@
 
 Learning JavaScript as a Java developer following the AppAcademy bootcamp and other resources.
 
+!This is a work in progress rn!
